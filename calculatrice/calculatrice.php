@@ -73,6 +73,6 @@ if( isset( $_GET['reset'] ) ) {                                 // debut gestion
 ?>
 </form>
 <br>
-<a href="?reset">remise à zéro</a>
+<a href="?reset">effacer</div></a>
 </body>
 </html>
